@@ -50,13 +50,9 @@ h3 {
   font-size: 30px;
   padding-top: 20px;
 }
-section {
-  padding: 20px;
-}
+
 .under {
-  margin: auto;
-  margin-left: 155px;
-  width: 80%;
+  width: 100%;
   height: auto;
 }
 
