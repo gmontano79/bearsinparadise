@@ -35,7 +35,10 @@ div {
   padding: 10px 0;
 }
 
-.oyclogo,
+.oyclogo {
+  width: 10%;
+  height: auto;
+}
 .logo41 {
   width: 10%;
   height: auto;
@@ -47,9 +50,14 @@ h3 {
   font-size: 30px;
   padding-top: 20px;
 }
+section {
+  padding: 20px;
+}
 .under {
-  margin-top: 160px;
-  width: 100%;
+  margin: auto;
+  margin-left: 155px;
+  width: 80%;
+  height: auto;
 }
 
 footer {
@@ -76,7 +84,10 @@ footer h4 {
     display: flex;
   }
 
-  .oyclogo,
+  .oyclogo {
+    width: 100px;
+    height: auto;
+  }
   .logo41 {
     width: 100px;
     height: auto;
